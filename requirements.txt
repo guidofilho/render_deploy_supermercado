@@ -1,6 +1,6 @@
-click==8.2.1
+click==8.1.7  # Versão compatível com Python 3.9
 dash==2.14.1
-werkzeug==2.3.7  # Versão crucial que resolve o erro
+werkzeug==2.3.7
 dash-bootstrap-components==1.4.1
 dash-bootstrap-templates
 gunicorn==21.2.0
